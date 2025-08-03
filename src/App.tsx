@@ -1,7 +1,5 @@
 import { BrowserRouter, Routes ,Route  } from 'react-router'
 import './App.css'
-
-// import HomePage from './pages/HomePage'
 import LoginForm from './pages/LoginForm'
 import MainPage from './pages/MainPage'
 import CourseListPage from './pages/CourseListPage'

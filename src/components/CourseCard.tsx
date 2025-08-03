@@ -108,10 +108,7 @@ const CourseCard: React.FC<CourseCardProps> = ({ id, courseImage, courseTitle, c
                         
               </div>
               {/*== card-content ==*/}
-
-              {/* show deleteCourse component over courseCard */}
-              {/* {removeCourse && <DeleteCourse onClose={() => { setRemoveCourse(false); } } id={id} />} */}
-
+              
           </div>
           {/*== courseCard ==*/}
       </>
